@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Maya/static/css/main.a743142f.chunk.css",
+    "main.js": "/Maya/static/js/main.03b69032.chunk.js",
+    "main.js.map": "/Maya/static/js/main.03b69032.chunk.js.map",
+    "runtime-main.js": "/Maya/static/js/runtime-main.ca00a42e.js",
+    "runtime-main.js.map": "/Maya/static/js/runtime-main.ca00a42e.js.map",
+    "static/css/2.8423e45c.chunk.css": "/Maya/static/css/2.8423e45c.chunk.css",
+    "static/js/2.b0aa85cc.chunk.js": "/Maya/static/js/2.b0aa85cc.chunk.js",
+    "static/js/2.b0aa85cc.chunk.js.map": "/Maya/static/js/2.b0aa85cc.chunk.js.map",
+    "index.html": "/Maya/index.html",
+    "precache-manifest.d81ffe57ed81eb80c0a964358165182a.js": "/Maya/precache-manifest.d81ffe57ed81eb80c0a964358165182a.js",
+    "service-worker.js": "/Maya/service-worker.js",
+    "static/css/2.8423e45c.chunk.css.map": "/Maya/static/css/2.8423e45c.chunk.css.map",
+    "static/css/main.a743142f.chunk.css.map": "/Maya/static/css/main.a743142f.chunk.css.map",
+    "static/media/logo.svg": "/Maya/static/media/logo.7fde600e.svg",
+    "static/media/logoMaya_3.svg": "/Maya/static/media/logoMaya_3.246f613d.svg",
+    "static/media/premium.svg": "/Maya/static/media/premium.e206db69.svg",
+    "static/media/solution_3.svg": "/Maya/static/media/solution_3.4ee99756.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca00a42e.js",
+    "static/css/2.8423e45c.chunk.css",
+    "static/js/2.b0aa85cc.chunk.js",
+    "static/css/main.a743142f.chunk.css",
+    "static/js/main.03b69032.chunk.js"
+  ]
+}
